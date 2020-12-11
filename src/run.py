@@ -16,7 +16,11 @@ words = sc.textFile("data/sample.txt").flatMap(lambda line: line.split(" "))
 wordCounts = words.map(lambda word: (word, 1)).reduceByKey(lambda a,b:a +b)
 
 # Print results if demanded
-if sys.argv[1]:
+try:
+   param = int(sys.argv[1])
+except:
+   param = 0
+if param:
    print("############## Word count ##############")
    for item in wordCounts.collect():
       print(item)
