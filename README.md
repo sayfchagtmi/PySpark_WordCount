@@ -7,10 +7,10 @@ Counting the number of words from a text file using pyspark
 * ```git clone https://github.com/sayfchagtmi/PySpark_WordCount.git```
 * ```cd PySpark_WordCount```
 * ```git checkout WordCount```
-* ```python run.py```
+* ```python src/run.py```
 ## To display results type
-```cat result/part-00000```
+```cat output/part-00000```
 
 ## Obtained output
-<img src="output/output.png"
+<img src="example/output.png"
      style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
