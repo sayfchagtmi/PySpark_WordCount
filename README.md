@@ -21,9 +21,7 @@ Counting the number of words from a text file using pyspark
 ## Output result
 <img src="example/1.png"
      style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
-.<br\>
-.<br\>
-.<br\>
+<center><bold>...</bold></center>
 <img src="example/2.png"
      style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
 
