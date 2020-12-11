@@ -17,6 +17,8 @@ Counting the number of words from a text file using pyspark
 
 ## To automatically run the code from command line (terminal here) type
 ```sh main.sh```
+## To output the result into console put the first argument into a non null value (1 for example)
+```sh main.sh 1```
 
 ## Output result
 <img src="example/ShellOutput.png"
