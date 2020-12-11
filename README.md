@@ -19,9 +19,5 @@ Counting the number of words from a text file using pyspark
 ```sh main.sh```
 
 ## Output result
-<img src="example/1.png"
+<img src="example/ShellOutput.png"
      style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
-<center><bold>...</bold></center>
-<img src="example/2.png"
-     style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
-
